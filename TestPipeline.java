@@ -1,4 +1,4 @@
-public class Test_Pipeline {
+public class TestPipeline {
 
 	public static void main (String[] args) {
 
